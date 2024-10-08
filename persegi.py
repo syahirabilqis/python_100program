@@ -7,4 +7,5 @@ sisi = int(input("Masukan sisi : "))
 luas = sisi * sisi
 keliling = sisi * sisi * sisi * sisi
 
-print("Luas: ",luas, )
+print("Luas: ",luas, "m2")
+print("keliling: ",keliling, "m")
