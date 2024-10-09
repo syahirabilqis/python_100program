@@ -4,6 +4,7 @@
 
 print("*"*40)
 print("Program Segitiga")
+print("*"*40)
 
 Tinggi = int(input("Masukan Tinggi: "))
 Alas = int(input("Masukan Alas: "))
