@@ -1,6 +1,6 @@
 # Dibuat oleh : Syahira Bilqis Humaira
 # Tanggal pengerjaan :  9 Oktober 2024
-# Program Persegi
+# Program lingkaran
 
 print("*"*40)
 print("Rumus Lingkaran")
