@@ -8,8 +8,8 @@ print("*"*40)
 
 Jari2 = int(input("Masukan jari2 : "))
 
-Luas = 3.14 * Jari2 * Jari2
-Keliling = 2*3.12 * Jari2
+l = 3.14 * Jari2 * Jari2
+k = 2*3.12 * Jari2
 
-print("Keliling: ",Keliling, "cm2")
-print("Luas: ",Luas, "cm2")
+print("Keliling Lingkaran: ",k, "cm2")
+print("Luas Lingkaran: ",l, "m")
