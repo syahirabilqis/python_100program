@@ -6,12 +6,12 @@ print("*"*40)
 print("Rumus Segitiga")
 print("*"*40)
 
-t = int(input("Masukan Tinggi: "))
-a = int(input("Masukan Alas: "))
-s = int(input("Masukan Sisi: "))
+t = float(input("Masukan Tinggi: "))
+a = float(input("Masukan Alas: "))
+s = float(input("Masukan Sisi: "))
 
-l = 1/2 * a * t
-k = s * s * s
+lp = 1/2 * a * t
+kp = s * s * s
 
-print("Luas Segitiga: ",l, "m2")
-print("Keliling Segitiga: ",k, "m")
+print("Luas Segitiga: ",lp, "m2")
+print("Keliling Segitiga: ",kp, "m")

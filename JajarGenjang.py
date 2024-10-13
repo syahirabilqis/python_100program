@@ -6,13 +6,13 @@ print("*"*40)
 print("Rumus Jajar Genjang")
 print("*"*40)
 
-a = int(input("Masukan alas: "))
-t = int(input("Masukan tinggi: "))
-p = int(input("Masukan panjang: "))
-le = int(input("Masukan lebar: "))
+a = float(input("Masukan alas: "))
+t = float(input("Masukan tinggi: "))
+p = float(input("Masukan panjang: "))
+le = float(input("Masukan lebar: "))
 
-l = a * t
-k = 2 * p * le
+lp = a * t
+kp = 2 * p * le
 
-print("Luas Jajar Genjang: ",l, "m2")
-print("Keliling Jajar keliling: ",k, "m")
+print("Luas Jajar Genjang: ",lp, "m2")
+print("Keliling Jajar Genjang: ",kp, "m")

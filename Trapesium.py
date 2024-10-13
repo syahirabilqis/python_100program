@@ -6,14 +6,14 @@ print("*"*40)
 print("Rumus Trapesium")
 print("*"*40)
 
-a = int(input("Masukan sisi a: "))
-b = int(input("Masukan sisi b: "))
-c = int(input("Masukan sisi c: "))
-d = int(input("Masukan sisi d: "))
-t = int(input("Masukan tinggi: "))
+a = float(input("Masukan sisi a: "))
+b = float(input("Masukan sisi b: "))
+c = float(input("Masukan sisi c: "))
+d = float(input("Masukan sisi d: "))
+t = float(input("Masukan tinggi: "))
 
-l = 1/2 * (a + b) * t
-k = a + b + c + d
+lp = 1/2 * (a + b) * t
+kp = a + b + c + d
 
-print("Luas Trapesium: ",l, "cm2")
-print("Keliling Trapesium: ",k, "m")
+print("Luas Trapesium: ",lp, "cm2")
+print("Keliling Trapesium: ",kp, "m")

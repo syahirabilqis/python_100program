@@ -6,10 +6,10 @@ print("*"*40)
 print("Rumus Lingkaran")
 print("*"*40)
 
-Jari2 = int(input("Masukan jari2 : "))
+Jari2 = float(input("Masukan jari2 : "))
 
-l = 3.14 * Jari2 * Jari2
-k = 2*3.12 * Jari2
+lp = 3.14 * Jari2 * Jari2
+kp = 2*3.12 * Jari2
 
-print("Keliling Lingkaran: ",k, "cm2")
-print("Luas Lingkaran: ",l, "m")
+print("Luas Lingkaran: ",lp, "m")
+print("Keliling Lingkaran: ",kp, "cm2")

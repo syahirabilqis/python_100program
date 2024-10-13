@@ -6,10 +6,10 @@ print("*"*40)
 print("Rumus Persegi")
 print("*"*40)
 
-s = int(input("Masukan Sisi : "))
+s = float(input("Masukan Sisi : "))
 
-l = s * s
-k = s * s * s * s
+lp = s * s
+kp = s * s * s * s
 
-print("Luas Persegi: ",l, "m2")
-print("keliling Persegi: ",k, "m")
+print("Luas Persegi: ",lp, "m2")
+print("keliling Persegi: ",kp, "m")
