@@ -2,7 +2,9 @@
 # Tanggal pengerjaan :  8 November 2024
 # Program Konversi Detik
 
-
+print("*"*40)
+print("Program KOnversi Detik")
+print("*"*40)
 
 detik = int(input("Masukan nilai detik: "))
 
