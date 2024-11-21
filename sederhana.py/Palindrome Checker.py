@@ -14,5 +14,5 @@ else :
     print(kata, "bukan palindrome")
     
     
-#Palindrome adalah sebuah kata, bilangan, frasa atau susunan karakter lain 
+# Palindrome adalah sebuah kata, bilangan, frasa atau susunan karakter lain 
 # yang serupa jika dibaca dengan terbalik ataupun tidak
