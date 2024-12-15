@@ -2,6 +2,10 @@
 # Tanggal pengerjaan :  19 November 2024
 # Program Mencari Tau Bilangan
 
+print("*" * 40)
+print("Mencari Tau Bilangan")
+print("*" * 40)
+
 angka = int(input("Masukkan nilai: "))
 
 if angka > 100:
