@@ -25,4 +25,3 @@ elif operator == "/":
     print(f"Hasilnya adalah {hasil}")
 else:
     print("Operator tidak valid. Gunakan (+,-,*,/)")
-    

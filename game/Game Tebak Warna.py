@@ -22,6 +22,4 @@ def tebak_warna():
             break
         else:
             print("Salah! Coba lagi.")
-
-# Menjalankan game
 tebak_warna()

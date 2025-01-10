@@ -1,3 +1,11 @@
+# Dibuat oleh : Syahira Bilqis Humaira
+# Tanggal pengerjaan : 7 januari 2025
+# Program Cek Kesehatan
+
+print("*"*40)
+print("Program Cek Kesehatan")
+print("*"*40)
+
 import random
 
 def cek_kesehatan():

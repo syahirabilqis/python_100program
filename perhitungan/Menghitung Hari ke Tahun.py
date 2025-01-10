@@ -6,8 +6,8 @@ print("*"*40)
 print("Menghitung Hari ke Tahun")
 print("*"*40)
 
-HARI_PER_TAHUN = 365 
-HARI_PER_BULAN = 30  
+HARI_PER_TAHUN = 365
+HARI_PER_BULAN = 30
 harii = int(input('Masukkan jumlah hari : '))
 
 tahun = int(harii / HARI_PER_TAHUN)
@@ -17,4 +17,3 @@ bulan = int(harri / HARI_PER_BULAN)
 hari = harri % HARI_PER_BULAN
 
 print(tahun, 'tahun', bulan, 'bulan', hari, 'hari')
-
